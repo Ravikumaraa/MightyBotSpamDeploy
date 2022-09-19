@@ -21,7 +21,7 @@
  
   <summary> • 𝗖𝗿𝗲𝗱𝗶𝘁𝘀 • </summary>
   
-* [MightyX Creator](https://github.com/BeingMighty)
+* [MightyX Creator](https://github.com/Ravikumaraa)
 
 * [Lonami](https://github.com/LonamiWebs/) For [Telethon.](https://github.com/LonamiWebs/Telethon)
 
