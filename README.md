@@ -13,7 +13,7 @@
 
 # Deploy To Heroku :
 
-[![Deploy](https://www.Ravikumaraa.com/deploy/button.svg)](https://Ravikumaraa?template=https://github.com/BeingMighty/https://github.com/Ravikumaraa)
+[![Deploy](https://https://github.com/Ravikumaraa/MightyBotSpamDeploy/deploy/button.svg)](https://Ravikumaraa?template=https://github.com/BeingMighty/https://github.com/Ravikumaraa)
 
 <br>
 
